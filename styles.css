@@ -1,0 +1,14 @@
+body {
+    background-color: lightgray;
+    color: darkblue;
+    font-family: 'Georgia', 'Times New Roman', serif
+}
+h1 {
+    font-weight: bold;
+}
+.home {
+    font-size: xx-large;
+}
+h1.home {
+    text-align: center;
+}
