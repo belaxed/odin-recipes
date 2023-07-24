@@ -1,14 +1,26 @@
 body {
-    background-color: lightgray;
+    background-color: rgb(221, 229, 255);
     color: darkblue;
     font-family: 'Georgia', 'Times New Roman', serif
 }
 h1 {
     font-weight: bold;
 }
-.home {
-    font-size: xx-large;
+ul.home {
+    font-size: x-large;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    border: 4px solid darkblue;
+    padding: 2px 4px;
+    width: 400px;
+    margin: 16px auto;
 }
 h1.home {
+    font-size: xx-large;
     text-align: center;
+    background-color: antiquewhite;
+    border: 4px solid darkblue;
+    padding: 2px 4px;
+    width: 150px;
+    margin: auto;
 }
